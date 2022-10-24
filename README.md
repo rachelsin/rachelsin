@@ -1,17 +1,16 @@
-### Hi, I'm Rachel 👋
+# Hi, I'm Rachel 👋
 Full stack / Frontend web developer
 
 
 ## About Me
 👨‍💻 I’m currently looking for my first job in web development
 
-👨‍🏫 I continue to learn and develop my skills in React.js, Vue.js
+👨‍🏫 I continue to learn and develop my skills in React.js, Node.js
 
 📫 How to reach me: rmpodo@gmail.com
 
-Connect with me:
+Connect with me: https://www.linkedin.com/in/rachel-singavy-podorovsky/
 
-Languages and Tools:
 
 <!--
 **rachelsin/rachelsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
