@@ -1,14 +1,13 @@
 ### Hi, I'm Rachel 👋
 Full stack / Frontend web developer
 
-About Me
 
-About Me
+## About Me
 👨‍💻 I’m currently looking for my first job in web development
 
 👨‍🏫 I continue to learn and develop my skills in React.js, Vue.js
 
-📫 How to reach me: zvikizax@gmail.com
+📫 How to reach me: rmpodo@gmail.com
 
 Connect with me:
 
