@@ -1,5 +1,5 @@
 # Hi, I'm Rachel 👋
-Full stack / Frontend web developer
+Full Stack / Frontend Web Developer
 
 
 ## About Me
