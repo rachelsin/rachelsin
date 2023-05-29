@@ -3,9 +3,9 @@ Full stack / Frontend web developer
 
 
 ## About Me
-👨‍💻 I’m currently looking for my first job in web development
-
-👨‍🏫 I continue to learn and develop my skills in React.js, Node.js
+👨‍💻 I am a highly motivated Full Stack Developer with a proven track record in web application development.
+I am dedicated to continuous learning and staying abreast of the latest industry trends. 
+I am seeking opportunities to leverage my technical expertise and drive success within a forward-thinking organization.
 
 📫 How to reach me: rmpodo@gmail.com
 
